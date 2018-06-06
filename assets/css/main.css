@@ -1,0 +1,31 @@
+/*.scrolled-text {
+    color: dodgerblue !important;
+    transition: 0.3s;
+ }*/
+
+ .awe-section {
+    padding-top: 75px;
+    padding-bottom: 76px;
+}
+  
+.section-header {
+    margin-bottom: 50px;
+    background-size: cover;
+}
+
+.nav-link:not(.btn){
+    font-size: 0.9em !important;
+    font-weight: 700 !important;
+}
+
+.sidebar-collapse .navbar-collapse {
+    background: none;
+}
+
+.sidebar-collapse .navbar-collapse:before {
+    background: linear-gradient(#000000 0%, #000 80%);
+}
+
+.bg-purple {
+    background-color: rgb(149, 1, 255);
+}
